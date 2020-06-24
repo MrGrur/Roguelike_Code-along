@@ -1,4 +1,5 @@
 import tcod.event
+
 from typing import Optional
 from actions import Action, EscapeAction, MovementAction
 
